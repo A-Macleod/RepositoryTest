@@ -4,5 +4,6 @@ public class Test1 {
 
         // THIS IS A TEST 1
         // This is a test
+        // Branch 2
     }
 }
