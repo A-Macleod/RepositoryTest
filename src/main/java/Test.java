@@ -4,5 +4,6 @@ public class Test {
 
         // THIS IS A TEST -- BRANCH TEST
         // Testing merge
+        // Branch 2
     }
 }
